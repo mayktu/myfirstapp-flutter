@@ -2,6 +2,19 @@
 
 A new Flutter application.
 
+# Dependências
+Android Studio
+```
+https://developer.android.com/studio/install?hl=pt-br
+```
+Flutter
+```
+https://flutter.dev/docs/get-started/install
+```
+
+## Configuração
+Após criar o projeto criar a pasta src dentro de lib
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
